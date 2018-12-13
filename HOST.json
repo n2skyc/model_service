@@ -1,0 +1,5 @@
+{
+  "logs_host": "http://backprop:5000/logs/",
+  "db_endpoint": "mongodb://database:27017/n2sky",
+  "neural_network_host": "http://backprop:5000"
+}
